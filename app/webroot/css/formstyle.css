@@ -1,0 +1,37 @@
+/* General Form Styles*/
+
+#userform label {
+	font-size: 120%;
+}
+#userform  input, textarea {
+	clear: both;
+	margin:5px 0px;
+	font-size: 100%;
+	font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif;
+	width: 99%;
+}
+
+#userform input[type=submit] {
+	float: left;
+	margin-top:10px;
+	font-size: 120%;
+	padding: 2px 5px;
+	width: auto;
+	vertical-align: bottom;
+}
+
+/* Login (Side) Form Styles*/
+
+#login label {
+	font-size: 110%;
+}
+#login  input, textarea {
+	clear: both;
+	margin-top:10px;
+	font-size: 100%;
+	font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif;
+}
+#login input[type=submit] {
+	float: left;
+	font-size: 120%;
+}

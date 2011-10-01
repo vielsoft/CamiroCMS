@@ -1,0 +1,12 @@
+<div class="actions">
+<ul>
+	<li>
+	<a href="/camiro-cms/admin/users/"><img src="/camiro-cms/img/admin/icons/home.png" title="Home" alt="" /></a>	</li>
+	<li>
+	<a href="/camiro-cms/admin/users/add/"><img src="/camiro-cms/img/admin/icons/add.png" title="Add New User" alt="" /></a>	</li>
+	<li>
+	<a href="/camiro-cms/admin/users/edit/1"><img src="/camiro-cms/img/admin/icons/edit2.png" title="Edit User Administrator" alt="" /></a>	</li>
+	<li>
+	<a href="/camiro-cms/admin/users/delete/1" onclick="return confirm(&#039;Are you sure you want to delete User Administrator?&#039;);"><img src="/camiro-cms/img/admin/icons/delete2.png" title="Delete User Administrator" alt="" /></a>	</li>
+</ul>
+</div>

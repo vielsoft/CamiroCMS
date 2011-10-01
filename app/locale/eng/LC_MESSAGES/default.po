@@ -1,0 +1,339 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2009
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <info@camiro-cms.org>, 2008.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: arpee.ong <arpee@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/views/users/admin_edit.ctp:1
+msgid "USER_INFO_EDIT_PAGE"
+msgstr "User Information"
+
+#: app/views/users/admin_view.ctp:43 app/views/permissions/admin_view.ctp:26
+#: app/views/groups/admin_view.ctp:27 app/views/groups/admin_view.ctp:30
+msgid "+"
+msgstr "+"
+
+#: app/views/users/admin_index.ctp:6 app/views/groups/admin_index.ctp:6
+msgid "Name"
+msgstr ""
+
+#: app/views/users/admin_index.ctp:7
+msgid "Email Address"
+msgstr ""
+
+#: app/views/users/admin_index.ctp:8
+msgid "Active"
+msgstr ""
+
+#: app/views/users/admin_index.ctp:9 app/views/groups/admin_index.ctp:7
+msgid "Created"
+msgstr ""
+
+#: app/views/users/admin_index.ctp:10 app/views/groups/admin_index.ctp:8
+msgid "Modified"
+msgstr ""
+
+#: app/views/users/admin_index.ctp:11 app/views/groups/admin_index.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: app/views/users/admin_add.ctp:1
+#: app/views/elements/users/menus/view_menu.ctp:8
+#: app/views/elements/users/menus/index_menu.ctp:8
+msgid "Add New User"
+msgstr ""
+
+#: app/views/users/register.ctp:1
+msgid "Register a new account"
+msgstr ""
+
+#: app/views/permissions/admin_view.ctp:31
+msgid "Permission Groups"
+msgstr ""
+
+#: app/views/searches/search.ctp:35
+msgid "No results found"
+msgstr ""
+
+#: app/views/menus/admin_index.ctp:5
+msgid "Add New Menu"
+msgstr ""
+
+#: app/views/contents/view.ctp:7 app/views/contents/index.ctp:10
+#: app/views/content_containers/index.ctp:9
+msgid "CREATED_BY"
+msgstr "Created By"
+
+#: app/views/contents/view.ctp:8 app/views/contents/index.ctp:10
+#: app/views/content_containers/index.ctp:9
+msgid "ON"
+msgstr "On"
+
+#: app/views/contents/view.ctp:14 app/views/contents/index.ctp:14
+#: app/views/content_containers/index.ctp:13
+msgid "LAST_MODIFIED_ON"
+msgstr "Last Modified On"
+msgid "SHOWING_FRONTPAGE"
+msgstr "Frontpage"
+
+#: app/views/elements/users/menus/edit_menu.ctp:4
+#: app/views/elements/users/menus/view_menu.ctp:4
+#: app/views/elements/users/menus/index_menu.ctp:4
+#: app/views/elements/permissions/menus/edit_menu.ctp:4
+#: app/views/elements/permissions/menus/view_menu.ctp:4
+#: app/views/elements/permissions/menus/index_menu.ctp:4
+#: app/views/elements/containers/index_menu.ctp:4
+#: app/views/elements/groups/menus/edit_menu.ctp:4
+#: app/views/elements/groups/menus/view_menu.ctp:4
+#: app/views/elements/groups/menus/index_menu.ctp:4
+msgid "Home"
+msgstr ""
+
+#: app/views/elements/users/menus/view_menu.ctp:12
+#: app/views/elements/permissions/menus/view_menu.ctp:12
+#: app/views/elements/groups/menus/view_menu.ctp:12
+msgid "Edit "
+msgstr ""
+
+#: app/views/elements/permissions/menus/view_menu.ctp:8
+#: app/views/elements/permissions/menus/index_menu.ctp:8
+msgid "Add New Permission"
+msgstr ""
+
+#: app/views/elements/modules/mod_search.ctp:24
+msgid "Submit"
+msgstr ""
+
+#: app/views/elements/contents/index_menu.ctp:4
+msgid "Add New Content"
+msgstr ""
+
+#: app/views/elements/containers/index_menu.ctp:7
+msgid "Back to parent"
+msgstr ""
+
+#: app/views/elements/containers/index_menu.ctp:12
+#: app/views/menu_containers/admin_index.ctp:5
+#: app/views/content_containers/admin_index.ctp:3
+msgid "Add New Container"
+msgstr ""
+
+#: app/views/elements/groups/menus/view_menu.ctp:8
+#: app/views/elements/groups/menus/index_menu.ctp:8
+msgid "Add New Group"
+msgstr ""
+
+#: app/views/groups/admin_view.ctp:36
+msgid "Group Permissions"
+msgstr ""
+
+#: app/views/groups/admin_view.ctp:75
+msgid "Group Users"
+msgstr ""
+
+#: app/controllers/trash_controller.php:34
+msgid "User Restored"
+msgstr ""
+
+#: app/controllers/trash_controller.php:42
+msgid "Invalid id for User"
+msgstr ""
+
+#: app/controllers/trash_controller.php:47
+msgid "User deleted"
+msgstr ""
+
+#: app/controllers/trash_controller.php:66
+msgid "Content item Restored"
+msgstr ""
+
+#: app/controllers/trash_controller.php:74
+#: app/controllers/trash_controller.php:106
+msgid "Invalid id for content"
+msgstr ""
+
+#: app/controllers/trash_controller.php:79
+msgid "Content deleted"
+msgstr ""
+
+#: app/controllers/trash_controller.php:98
+msgid "Menu item Restored"
+msgstr ""
+
+#: app/controllers/trash_controller.php:111
+msgid "Menu item deleted"
+msgstr ""
+
+#: app/controllers/content_containers_controller.php:149
+msgid "Saving successful "
+msgstr ""
+
+#: app/controllers/content_containers_controller.php:152
+msgid "Could not save container."
+msgstr ""
+
+#: app/controllers/content_containers_controller.php:177
+msgid "Could not delete container. Delete all children container first!."
+msgstr ""
+
+#: app/controllers/groups_controller.php:25
+msgid "Invalid Group."
+msgstr ""
+
+#: app/controllers/groups_controller.php:35
+#: app/controllers/groups_controller.php:53
+msgid "The Group has been saved"
+msgstr ""
+
+#: app/controllers/groups_controller.php:38
+#: app/controllers/groups_controller.php:56
+msgid "The Group could not be saved. Please, try again."
+msgstr ""
+
+#: app/controllers/groups_controller.php:48
+msgid "Invalid Group"
+msgstr ""
+
+#: app/controllers/groups_controller.php:69
+msgid "Invalid id for Group"
+msgstr ""
+
+#: app/controllers/groups_controller.php:73
+msgid "Group deleted"
+msgstr ""
+
+#: app/controllers/users_controller.php:105
+#: app/controllers/users_controller.php:223
+msgid "Invalid User."
+msgstr ""
+
+#: app/controllers/users_controller.php:135
+msgid "Thank you for registering. You may now login"
+msgstr ""
+
+#: app/controllers/users_controller.php:141
+msgid "Error's were encountered. Please, try again."
+msgstr ""
+
+#: app/controllers/users_controller.php:179
+#: app/controllers/users_controller.php:235
+#: app/controllers/users_controller.php:259
+msgid "The User has been saved"
+msgstr ""
+
+#: app/controllers/users_controller.php:182
+#: app/controllers/users_controller.php:238
+#: app/controllers/users_controller.php:262
+msgid "The User could not be saved. Please, try again."
+msgstr ""
+
+#: app/controllers/users_controller.php:250
+#: app/controllers/users_controller.php:282
+msgid "Invalid User"
+msgstr ""
+
+#: app/controllers/users_controller.php:287
+msgid "Sending user to trash bin successful"
+msgstr ""
+
+#: app/controllers/menus_controller.php:75
+#: app/controllers/menus_controller.php:101
+#: app/controllers/menu_containers_controller.php:83
+msgid "The Menu has been saved"
+msgstr ""
+
+#: app/controllers/menus_controller.php:78
+#: app/controllers/menu_containers_controller.php:86
+msgid "Menu not saved. Try again."
+msgstr ""
+
+#: app/controllers/menus_controller.php:94
+#: app/controllers/menu_containers_controller.php:103
+msgid "Invalid Menu"
+msgstr ""
+
+#: app/controllers/menus_controller.php:104
+msgid ""
+"The Menu could not be saved.\r\n"
+"\tPlease, try again."
+msgstr ""
+
+#: app/controllers/menus_controller.php:118
+msgid "Sending menu item to trash bin successful"
+msgstr ""
+
+#: app/controllers/menus_controller.php:127
+#: app/controllers/menu_containers_controller.php:140
+msgid "Invalid Menu."
+msgstr ""
+
+#: app/controllers/permissions_controller.php:23
+msgid "Invalid Permission."
+msgstr ""
+
+#: app/controllers/permissions_controller.php:33
+#: app/controllers/permissions_controller.php:50
+msgid "The Permission has been saved"
+msgstr ""
+
+#: app/controllers/permissions_controller.php:36
+#: app/controllers/permissions_controller.php:53
+msgid "The Permission could not be saved. Please, try again."
+msgstr ""
+
+#: app/controllers/permissions_controller.php:45
+msgid "Invalid Permission"
+msgstr ""
+
+#: app/controllers/permissions_controller.php:65
+msgid "Invalid id for Permission"
+msgstr ""
+
+#: app/controllers/permissions_controller.php:69
+msgid "Permission deleted"
+msgstr ""
+
+#: app/controllers/menu_containers_controller.php:110
+msgid "The Menu Container has been saved"
+msgstr ""
+
+#: app/controllers/menu_containers_controller.php:113
+msgid ""
+"The Menu Container could not be saved.\r\n"
+"\t\tPlease, try again."
+msgstr ""
+
+#: app/controllers/menu_containers_controller.php:129
+msgid "Invalid id for Menu"
+msgstr ""
+
+#: app/controllers/contents_controller.php:132
+msgid "Invalid Content"
+msgstr ""
+
+#: app/controllers/contents_controller.php:141
+msgid "The Content has been saved"
+msgstr ""
+
+#: app/controllers/contents_controller.php:144
+msgid "The Content could not be saved.Please, try again."
+msgstr ""
+
+#: app/controllers/contents_controller.php:159
+msgid "Invalid id for Content"
+msgstr ""
+
+#: app/controllers/contents_controller.php:164
+msgid "Trashing content #"
+msgstr ""
